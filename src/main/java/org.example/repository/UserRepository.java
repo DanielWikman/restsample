@@ -1,5 +1,6 @@
-package org.example;
+package org.example.repository;
 
+import org.example.domain.User;
 import org.springframework.data.neo4j.repository.GraphRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

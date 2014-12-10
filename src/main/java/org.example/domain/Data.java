@@ -1,4 +1,4 @@
-package org.example;
+package org.example.domain;
 
 import org.neo4j.graphdb.Direction;
 import org.springframework.data.neo4j.annotation.GraphId;

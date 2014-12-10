@@ -1,4 +1,4 @@
-package org.example;
+package org.example.domain;
 
 import org.springframework.data.neo4j.annotation.GraphId;
 import org.springframework.data.neo4j.annotation.NodeEntity;
